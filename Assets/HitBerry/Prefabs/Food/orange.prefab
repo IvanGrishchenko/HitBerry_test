@@ -131,4 +131,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rigidbody: {fileID: 450889459913130072}
   ingredientColor: {r: 0.9960785, g: 0.7254902, b: 0.4666667, a: 0}
-  ingredientType: 3
+  type: 3
